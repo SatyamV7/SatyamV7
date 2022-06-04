@@ -34,5 +34,4 @@ Hi, I'm Satyam I am a full stack web developer, I work in frontend web developme
 </div>
 
 
-Music Player
-<iframe src="https://satyamv7.github.io/Music_Player/iframe/index.html" width="380px">
+[Music Player(https://satyamv7.github.io/Music_Player/iframe/index.html)
