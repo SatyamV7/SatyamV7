@@ -27,10 +27,12 @@ Hi, I'm Satyam I am a full stack web developer, I work in frontend web developme
 
 📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SatyamV7&show_icons=true&theme=gotham"  />
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=SatyamV7&theme=vue-dark&hide_border=true">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SatyamV7&show_icons=true&theme=gotham"  /> </p>
+  
+  
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=SatyamV7&theme=vue-dark&hide_border=true" /> </p>
 
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamV7&layout=compact&langs_count=7&theme=gotham" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamV7&layout=compact&langs_count=7&theme=gotham" /> </p>
 </div>
 
