@@ -11,14 +11,14 @@ Hi, I'm Satyam I am a full stack web developer, I work in frontend web developme
 **languages and tools:**  
   
   
-<code><img height="20" src="/assets/html.png"></code>
-<code><img height="20" src="/assets/css.png"></code>
-<code><img height="20" src="/assets/javascript.png"></code>
-<code><img height="20" src="/assets/vue.png"></code>
-<code><img height="20" src="/assets/react.png"></code>
-<code><img height="20" src="/assets/nodejs.png"></code>
-<code><img height="20" src="/assets/python.png"></code>
-<code><img height="20" src="/assets/php.png"></code>
+<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/html.png"></code>
+<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/css.png"></code>
+<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/javascript.png"></code>
+<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/vue.png"></code>
+<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/react.png"></code>
+<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/nodejs.png"></code>
+<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/python.png"></code>
+<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/php.png"></code>
 
 
 
