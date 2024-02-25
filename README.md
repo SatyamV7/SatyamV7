@@ -3,7 +3,7 @@
 
   
   
-Hi, I'm Satyam I am a full stack web developer, I work in frontend web development with JavaScript, TypeScript, and for frontend frameworks like Svelte, Vue and React. I also write backend APIs, scripts, working with databases, and my favourite platforms are NodeJS, and Go. I am a 13 y/o self-taught fullstack web developer based in India with 3 years of experience. I make blazing fast and performant web apps
+Hi, I'm Satyam I am a full stack web developer, I work in frontend web development with JavaScript, TypeScript, and for frontend frameworks like Svelte, Vue and React. I also write backend APIs, scripts, working with databases, and my favourite platforms are NodeJS, and Go. I am a 15 y/o self-taught fullstack web developer based in India with 3 years of experience. I make blazing fast and performant web apps
 
   
 
