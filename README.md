@@ -17,11 +17,6 @@ Hi, I'm Satyam I am a full stack web developer, I work in frontend web developme
 <code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/vue.png"></code>
 <code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/react.png"></code>
 <code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/nodejs.png"></code>
-<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/python.png"></code>
-<code><img height="20" src="https://codingsatyamweb.netlify.app/about_me/Languages_and_Tools/php.png"></code>
-
-
-
 
 
 📈 My Github Stats
